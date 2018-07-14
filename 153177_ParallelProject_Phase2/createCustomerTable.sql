@@ -1,0 +1,1 @@
+create table Customer(mobilenumber varchar(10),name varchar(30),amount int);
